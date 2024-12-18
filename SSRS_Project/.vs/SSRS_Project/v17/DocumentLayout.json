@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Data_Storage\\CA_1\\Project\\CA_Files\\SSRS_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96261357-B382-4089-8CCB-2F1894C69162}|SSRS_Project\\SSRS_Project.rptproj|C:\\Users\\hp\\Desktop\\Data_Storage\\CA_1\\Project\\CA_Files\\SSRS_Project\\SSRS_Project\\Report_Wizard.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{96261357-B382-4089-8CCB-2F1894C69162}|SSRS_Project\\SSRS_Project.rptproj|solutionrelative:SSRS_Project\\Report_Wizard.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96261357-B382-4089-8CCB-2F1894C69162}|SSRS_Project\\SSRS_Project.rptproj|C:\\Users\\hp\\Desktop\\Data_Storage\\CA_1\\Project\\CA_Files\\SSRS_Project\\SSRS_Project\\Report_Parameterised.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{96261357-B382-4089-8CCB-2F1894C69162}|SSRS_Project\\SSRS_Project.rptproj|solutionrelative:SSRS_Project\\Report_Parameterised.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96261357-B382-4089-8CCB-2F1894C69162}|SSRS_Project\\SSRS_Project.rptproj|C:\\Users\\hp\\Desktop\\Data_Storage\\CA_1\\Project\\CA_Files\\SSRS_Project\\SSRS_Project\\Report_Outer.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{96261357-B382-4089-8CCB-2F1894C69162}|SSRS_Project\\SSRS_Project.rptproj|solutionrelative:SSRS_Project\\Report_Outer.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96261357-B382-4089-8CCB-2F1894C69162}|SSRS_Project\\SSRS_Project.rptproj|C:\\Users\\hp\\Desktop\\Data_Storage\\CA_1\\Project\\CA_Files\\SSRS_Project\\SSRS_Project\\Report_Matrix.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{96261357-B382-4089-8CCB-2F1894C69162}|SSRS_Project\\SSRS_Project.rptproj|solutionrelative:SSRS_Project\\Report_Matrix.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96261357-B382-4089-8CCB-2F1894C69162}|SSRS_Project\\SSRS_Project.rptproj|C:\\Users\\hp\\Desktop\\Data_Storage\\CA_1\\Project\\CA_Files\\SSRS_Project\\SSRS_Project\\Report_Inner.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{96261357-B382-4089-8CCB-2F1894C69162}|SSRS_Project\\SSRS_Project.rptproj|solutionrelative:SSRS_Project\\Report_Inner.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96261357-B382-4089-8CCB-2F1894C69162}|SSRS_Project\\SSRS_Project.rptproj|C:\\Users\\hp\\Desktop\\Data_Storage\\CA_1\\Project\\CA_Files\\SSRS_Project\\SSRS_Project\\Report_2_Place.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{96261357-B382-4089-8CCB-2F1894C69162}|SSRS_Project\\SSRS_Project.rptproj|solutionrelative:SSRS_Project\\Report_2_Place.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96261357-B382-4089-8CCB-2F1894C69162}|SSRS_Project\\SSRS_Project.rptproj|C:\\Users\\hp\\Desktop\\Data_Storage\\CA_1\\Project\\CA_Files\\SSRS_Project\\SSRS_Project\\Drill_Up_Down_Report.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{96261357-B382-4089-8CCB-2F1894C69162}|SSRS_Project\\SSRS_Project.rptproj|solutionrelative:SSRS_Project\\Drill_Up_Down_Report.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Report_Matrix.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Data_Storage\\CA_1\\Project\\CA_Files\\SSRS_Project\\SSRS_Project\\Report_Matrix.rdl",
+              "RelativeDocumentMoniker": "SSRS_Project\\Report_Matrix.rdl",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Data_Storage\\CA_1\\Project\\CA_Files\\SSRS_Project\\SSRS_Project\\Report_Matrix.rdl [Design]",
+              "RelativeToolTip": "SSRS_Project\\Report_Matrix.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-14T16:49:34.562Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Report_Outer.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Data_Storage\\CA_1\\Project\\CA_Files\\SSRS_Project\\SSRS_Project\\Report_Outer.rdl",
+              "RelativeDocumentMoniker": "SSRS_Project\\Report_Outer.rdl",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Data_Storage\\CA_1\\Project\\CA_Files\\SSRS_Project\\SSRS_Project\\Report_Outer.rdl [Design]",
+              "RelativeToolTip": "SSRS_Project\\Report_Outer.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-14T08:32:15.608Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Report_Parameterised.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Data_Storage\\CA_1\\Project\\CA_Files\\SSRS_Project\\SSRS_Project\\Report_Parameterised.rdl",
+              "RelativeDocumentMoniker": "SSRS_Project\\Report_Parameterised.rdl",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Data_Storage\\CA_1\\Project\\CA_Files\\SSRS_Project\\SSRS_Project\\Report_Parameterised.rdl [Design]",
+              "RelativeToolTip": "SSRS_Project\\Report_Parameterised.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-14T08:31:40.64Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Report_Wizard.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Data_Storage\\CA_1\\Project\\CA_Files\\SSRS_Project\\SSRS_Project\\Report_Wizard.rdl",
+              "RelativeDocumentMoniker": "SSRS_Project\\Report_Wizard.rdl",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Data_Storage\\CA_1\\Project\\CA_Files\\SSRS_Project\\SSRS_Project\\Report_Wizard.rdl [Design]",
+              "RelativeToolTip": "SSRS_Project\\Report_Wizard.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-14T08:31:02.765Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Report_Inner.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Data_Storage\\CA_1\\Project\\CA_Files\\SSRS_Project\\SSRS_Project\\Report_Inner.rdl",
+              "RelativeDocumentMoniker": "SSRS_Project\\Report_Inner.rdl",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Data_Storage\\CA_1\\Project\\CA_Files\\SSRS_Project\\SSRS_Project\\Report_Inner.rdl [Design]",
+              "RelativeToolTip": "SSRS_Project\\Report_Inner.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-14T16:49:24.033Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Report_2_Place.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Data_Storage\\CA_1\\Project\\CA_Files\\SSRS_Project\\SSRS_Project\\Report_2_Place.rdl",
+              "RelativeDocumentMoniker": "SSRS_Project\\Report_2_Place.rdl",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Data_Storage\\CA_1\\Project\\CA_Files\\SSRS_Project\\SSRS_Project\\Report_2_Place.rdl [Design]",
+              "RelativeToolTip": "SSRS_Project\\Report_2_Place.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-14T16:49:16.99Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Drill_Up_Down_Report.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Data_Storage\\CA_1\\Project\\CA_Files\\SSRS_Project\\SSRS_Project\\Drill_Up_Down_Report.rdl",
+              "RelativeDocumentMoniker": "SSRS_Project\\Drill_Up_Down_Report.rdl",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Data_Storage\\CA_1\\Project\\CA_Files\\SSRS_Project\\SSRS_Project\\Drill_Up_Down_Report.rdl [Design]",
+              "RelativeToolTip": "SSRS_Project\\Drill_Up_Down_Report.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-13T23:14:28.103Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
